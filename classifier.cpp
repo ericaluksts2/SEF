@@ -50,4 +50,15 @@ public:
 	{
 		printf("train");
 	}
+
+	//
+	//	FUNCTION	:	predict()
+	//	DESCRIPTION	:
+	//		This function prints the function name
+	//	PARAMETERS	:	NONE
+	//	RETURNS		:	NONE
+	void predict()
+	{
+		printf("predict");
+	}
 };
