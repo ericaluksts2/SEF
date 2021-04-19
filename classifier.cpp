@@ -40,5 +40,14 @@ public:
 		data = dataInput;
 	}
 
-	//insert train() and predict() functions after
+	//
+	//	FUNCTION	:	train()
+	//	DESCRIPTION	:
+	//		This function prints the function name
+	//	PARAMETERS	:	NONE
+	//	RETURNS		:	NONE
+	void train()
+	{
+		printf("train");
+	}
 };
